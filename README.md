@@ -4,4 +4,4 @@ This is a small project I've been doing for fun. I started to import reacts date
 
 As I said. Just a samll project and this project can go even further to something bigger.
 
-![Förhandsbild](./screenshotProject.png)
+<!-- ![Förhandsbild](./screenshotProject.png) -->
